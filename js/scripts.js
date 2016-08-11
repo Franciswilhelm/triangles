@@ -13,7 +13,6 @@ $(".blanks form").submit(function(event) {
   } else {
     alert("isoceles triangle")
   }
-  debugger;
   event.preventDefault();
   });
 });
